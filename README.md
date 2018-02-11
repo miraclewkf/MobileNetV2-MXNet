@@ -2,6 +2,7 @@
 
 Paper: [Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segment](128.84.21.199/abs/1801.04381)
 
+* The symbol of mobilenet v2 is modified from [incubator-mxnet:resnet.py](https://github.com/apache/incubator-mxnet/blob/master/example/image-classification/symbols/resnet.py)
 
 # Usage
 
